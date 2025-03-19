@@ -1,8 +1,7 @@
 streamlit
 requests
 pandas
-BeautifulSoup
-bs4
+beautifulsoup4
 fuzzywuzzy
 matplotlib
 python-Levenshtein  # Required for fuzzywuzzy to work
